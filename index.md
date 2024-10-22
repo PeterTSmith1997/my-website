@@ -4,20 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently pursuing a PhD in computer science, with my research focused on enhancing online safety and protection for individuals. In addition to my academic work, I manage two companies that are dedicated to helping people establish an online presence while ensuring their digital security. My professional experience spans collaborations with a wide range of organizations, from large institutions such as the NHS to small, local websites. I am committed to delivering tailored solutions that meet clients’ needs on time, while maintaining a professional and approachable working relationship. A passionate advocate for universal internet access, my academic and professional pursuits are firmly rooted in ensuring that the online environment remains safe and secure for all users.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning:** Federated learning, machine learning, Xai 
+- **Cyber Security:** Privacy protection, botnets, multiverate anyalis 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
+- **[Oct. 2024]** Started Phd
+- **[Jun, 2024]** Presented at ACR 24, Midrid Spain.
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
